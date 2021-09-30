@@ -1,5 +1,5 @@
  👋 Hi, I’m @LorenzoRisi
- 👀 I’m passionate of understanding data, work and take information insights from it.
+ 👀 I’m passionate of understanding data, work and take insights from it.
  👨‍💼 My background was focused on an M.Sc. in Management and product development on top of which
  🌱 I’m at the end of the process of learning it through the use of different analytical languages like Python,R,SQL and software tools focused on data mining and visualization.
  💞️ I’m looking to work into a very stimulating and eterogeneus environment where learning new things, adapting yourself to a dynamic context and face new challenges is central.
