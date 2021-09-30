@@ -7,7 +7,7 @@
   - Mobile +39 3931829855
   - email lorenzo.risitano7@gmail.com
   - Skype Lorenzo Risitano (live:.cid.f7331ed0bd7154ae)
-  - 
+  
   
 
 <!---
